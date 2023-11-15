@@ -19,9 +19,6 @@ This project is designed to take you from a beginner level to someone capable of
 
 - **Deployment:** Explore different methods for deploying your website, making it accessible to the world.
 
-## Structure
-
-The repository is organized into weekly directories (`Week1`, `Week2`, etc.), each containing the course materials, code samples, and additional resources for that week. Follow the course outline to progress through the project step by step.
 
 ## Getting Started
 
